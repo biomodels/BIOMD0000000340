@@ -1,3 +1,21 @@
+# BIOMD0000000340: Model_1
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000340.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000340.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -18,4 +36,5 @@ applied to predict the time courses of coagulation kinetics in clinical
 situations (e.g., hemophilia) and for biomarker identification during drug
 development. The model developed in this study is the first quantitative
 description of the comprehensive coagulation network.
+
 
